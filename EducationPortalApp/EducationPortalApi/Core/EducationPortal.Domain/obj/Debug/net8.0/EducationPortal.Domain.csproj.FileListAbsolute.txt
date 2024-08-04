@@ -1,0 +1,12 @@
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\bin\Debug\net8.0\EducationPortal.Domain.deps.json
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\bin\Debug\net8.0\EducationPortal.Domain.dll
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\bin\Debug\net8.0\EducationPortal.Domain.pdb
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\EducationPortal.Domain.csproj.AssemblyReference.cache
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\EducationPortal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\EducationPortal.Domain.AssemblyInfoInputs.cache
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\EducationPortal.Domain.AssemblyInfo.cs
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\EducationPortal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\EducationPortal.Domain.dll
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\refint\EducationPortal.Domain.dll
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\EducationPortal.Domain.pdb
+C:\Users\irem\OneDrive - klu.edu.tr\Masaüstü\EducationPortalApp\EducationPortalApi\Core\EducationPortal.Domain\obj\Debug\net8.0\ref\EducationPortal.Domain.dll
